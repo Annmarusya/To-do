@@ -828,7 +828,7 @@ video {
   position: absolute;
   height: 26px;
   width: 26px;
-  background-image: url(/My_Future_Portfolio/To-Do/build/img/icons8.png);
+  background-image: url(../img/icons8.png);
   background-position: center;
   background-size: cover;
   top: 12px;
@@ -841,7 +841,7 @@ video {
 }
 
 .checked::before {
-  background-image: url(/My_Future_Portfolio/To-Do/build/img/icons8-checked.png);
+  background-image: url(../img/icons8-checked.png);
 }
 
 ul li span {
